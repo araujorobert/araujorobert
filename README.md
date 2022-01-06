@@ -2,7 +2,7 @@
 
 ## Físico Computacional
 
-Soy licenciado en física por la Universidad de Sonora con interes en la resolución de problemas usando métodos computacionales. 
+Me apasiona poder modelar problemas de la vida real usando la física y las matemáticas en la computadora. 
 
 **Lenguajes de programación que domino**:  
 - Python 
