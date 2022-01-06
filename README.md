@@ -1,5 +1,25 @@
-### Hi there 👋
+# Roberto Araujo
 
+## Físico Computacional
+
+Soy licenciado en física por la Universidad de Sonora con interes en la resolución de problemas usando métodos computacionales. 
+
+**Lenguajes de programación que domino**:  
+- Python 
+- R 
+- Fortran
+
+**Conocimientos**: 
+- Mecánica Teórica 
+- Cálculo Multivariable á
+- Álgebra Lineal 
+- Ecuaciones Diferenciales.
+
+Actualmente me estoy formando como cientifico de datos. Entre los cursos que estoy tomando estan: 
+- Estadística 
+- Machine Learning 
+- series temporales 
+- Optimizacion con Pyomo.
 <!--
 **araujorobert/araujorobert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
