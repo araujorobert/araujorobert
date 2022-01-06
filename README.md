@@ -1,19 +1,18 @@
-# Roberto Araujo
+# Hola! mi nombre es Roberto Araujo
 
-## Físico Computacional
+Soy físico computacional y convierto situaiones de la vida real en modelos matemáticos.
 
-Me apasiona poder modelar problemas de la vida real usando la física y las matemáticas en la computadora. 
-
-**Lenguajes de programación que domino**:  
+**Para hacer esto aplico**: 
+- Mecánica Teórica 
+- Álgebra Lineal
+- Cálculo Multivariable  
+- Métodos Numéricos
+- Ecuaciones Diferenciales.
+ 
+**Y me suelo apoyar de los siguientes lenguajes de programación**:  
 - Python 
 - R 
 - Fortran
-
-**Conocimientos**: 
-- Mecánica Teórica 
-- Cálculo Multivariable 
-- Álgebra Lineal 
-- Ecuaciones Diferenciales.
 
 Actualmente me estoy formando como cientifico de datos. Entre los cursos que estoy tomando estan: 
 - Estadística 
