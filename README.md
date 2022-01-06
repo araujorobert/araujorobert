@@ -11,7 +11,7 @@ Soy licenciado en física por la Universidad de Sonora con interes en la resoluc
 
 **Conocimientos**: 
 - Mecánica Teórica 
-- Cálculo Multivariable á
+- Cálculo Multivariable 
 - Álgebra Lineal 
 - Ecuaciones Diferenciales.
 
