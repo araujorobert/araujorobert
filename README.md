@@ -17,8 +17,8 @@ Soy físico computacional y convierto situaiones de la vida real en modelos mate
 Actualmente me estoy formando como cientifico de datos. Entre los cursos que estoy tomando estan: 
 - Estadística 
 - Machine Learning 
-- series temporales 
-- Optimizacion con Pyomo.
+- Series temporales 
+- Optimización.
 <!--
 **araujorobert/araujorobert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
