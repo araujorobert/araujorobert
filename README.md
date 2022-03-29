@@ -1,6 +1,6 @@
 # Hola! mi nombre es Roberto Araujo
 
-Soy físico computacional y convierto situaiones de la vida real en modelos matemáticos.
+Soy físico computacional y convierto situaciones de la vida real en modelos matemáticos.
 
 **Para hacer esto aplico**: 
 - Mecánica Teórica 
