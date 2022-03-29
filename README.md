@@ -5,9 +5,12 @@ Soy físico computacional y convierto situaiones de la vida real en modelos mate
 **Para hacer esto aplico**: 
 - Mecánica Teórica 
 - Álgebra Lineal
-- Cálculo Multivariable  
+- Cálculo Multivariable 
+- Ecuaciones Diferenciales 
 - Métodos Numéricos
-- Ecuaciones Diferenciales.
+- Estadística
+- Optimización
+- Machine Learning
  
 **Y me suelo apoyar de los siguientes lenguajes de programación**:  
 - Python 
@@ -15,10 +18,9 @@ Soy físico computacional y convierto situaiones de la vida real en modelos mate
 - Fortran
 
 Actualmente me estoy formando como cientifico de datos. Entre los cursos que estoy tomando estan: 
-- Estadística 
-- Machine Learning 
 - Series temporales 
-- Optimización.
+- Analisis de datos
+- Investigación de operaciones.
 <!--
 **araujorobert/araujorobert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
