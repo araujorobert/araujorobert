@@ -9,6 +9,7 @@ Soy físico computacional y convierto situaciones de la vida real en modelos mat
 - Ecuaciones Diferenciales 
 - Métodos Numéricos
 - Estadística
+- Data Visualization
 - Optimización
 - Machine Learning
  
@@ -16,6 +17,8 @@ Soy físico computacional y convierto situaciones de la vida real en modelos mat
 - Python 
 - R 
 - Fortran
+- SQL
+- Tableau
 
 Actualmente me estoy formando como cientifico de datos. Entre los cursos que estoy tomando estan: 
 - Series temporales 
