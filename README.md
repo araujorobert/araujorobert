@@ -3,12 +3,15 @@
 Soy físico computacional y convierto situaciones de la vida real en modelos matemáticos.
 
 **Para hacer esto aplico**: 
+- Programación
+- Métodos Numéricos
 - Mecánica Teórica 
 - Álgebra Lineal
 - Cálculo Multivariable 
 - Ecuaciones Diferenciales 
-- Métodos Numéricos
+- Series de Tiempo
 - Estadística
+- Análisis de Datos
 - Data Visualization
 - Optimización
 - Machine Learning
@@ -18,12 +21,8 @@ Soy físico computacional y convierto situaciones de la vida real en modelos mat
 - R 
 - Fortran
 - SQL
-- Tableau
+- Power BI
 
-Actualmente me estoy formando como cientifico de datos. Entre los cursos que estoy tomando estan: 
-- Series temporales 
-- Analisis de datos
-- Investigación de operaciones.
 <!--
 **araujorobert/araujorobert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
