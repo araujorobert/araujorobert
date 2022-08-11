@@ -13,8 +13,8 @@ Soy físico computacional y convierto situaciones de la vida real en modelos mat
 - Estadística
 - Análisis de Datos
 - Data Visualization
-- Optimización
-- Machine Learning
+- Modelos de Optimización
+- Algoritmos de Machine Learning
  
 **Y me suelo apoyar de los siguientes lenguajes de programación**:  
 - Python 
