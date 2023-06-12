@@ -1,22 +1,22 @@
-# Hola! mi nombre es Roberto Araujo
+# Hi! my name is Roberto Araujo
 
-Soy físico computacional y convierto situaciones de la vida real en modelos matemáticos.
+I'm a Computational Physicist and I turn real life situations into mathematical models.
 
-**Para hacer esto aplico**: 
-- Programación
-- Métodos Numéricos
-- Mecánica Teórica 
-- Álgebra Lineal
-- Cálculo Multivariable 
-- Ecuaciones Diferenciales 
-- Series de Tiempo
-- Estadística
-- Análisis de Datos
+**To do so I apply**: 
+- Programming
+- Numerical Methods
+- Theoretical Mechanics
+- Linear Algebra
+- Multivariant Calculus 
+- Differential Equations
+- Time Series
+- Statistics
+- Data Analysis
 - Data Visualization
-- Modelos de Optimización
-- Algoritmos de Machine Learning
+- Optimization Methods
+- Machine Learning Algorithms
  
-**Y me suelo apoyar de los siguientes lenguajes de programación**:  
+**Programming Languages**:  
 - Python 
 - R 
 - Fortran
